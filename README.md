@@ -1,2 +1,2 @@
-# Learning-Javascrpipt
-# Learning-Javascrpipt
+# Learning-Javascript
+ 
